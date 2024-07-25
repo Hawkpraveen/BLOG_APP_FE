@@ -23,7 +23,7 @@ const SignIn = () => {
         }
         try {
             dispatch(signInStart())
-            const response = await fetch('http://localhost:5000/api/auth/login-user',{
+            const response = await fetch('https://blog-app-be-ps7i.onrender.com/api/auth/login-user',{
                 method:'POST',
                 headers:{
                     'Content-Type':'application/json'
