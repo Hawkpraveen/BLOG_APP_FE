@@ -1,8 +1,54 @@
-# React + Vite
+# About the Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Admin centric Blog app.  
 
-Currently, two official plugins are available:
+## Base URL - https://blog-app-react-redux-tailwind.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔖Endpoints - Public Routes
+
+### ➡️ Login User
+URL - https://blog-app-react-redux-tailwind.netlify.app//signin
+
+### ➡️ Register User
+URL - https://blog-app-react-redux-tailwind.netlify.app/signup
+
+### ➡️ About Page
+URL - https://blog-app-react-redux-tailwind.netlify.app/about
+
+### 🔖Endpoints - Private Routes
+
+### ➡️ Profile Page
+URL - https://blog-app-react-redux-tailwind.netlify.app/dashboard?tab=profile
+
+### ➡️ Blog Creating Page
+URL - https://blog-app-react-redux-tailwind.netlify.app/create-post
+
+### ➡️ Blog Page
+URL - https://blog-app-react-redux-tailwind.netlify.app/blogs
+
+### Tech Stack
+
+### FRONTEND LIBRARIES
+  - React JS
+  - Tailwind
+  - FlowBite 
+  - Ant Design
+  - React-router-dom
+  - Redux
+  - Firebase
+
+###  FRONTEND PACKAGES
+  - Axios
+  - React Circular Progressbar
+
+###  BACKEND PACKAGES
+  - bcryptjs
+  - Express
+  - Mongoose
+  - Cors
+  - JWT
+    
+
+
+
+
